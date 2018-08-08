@@ -7,31 +7,31 @@
 Стили находятся в App.css
 
 Использовал массив из тз:
-	[
-		{
-			type: 'image',
-			style: {
-				left: 0,
-				top: 10
-			},
-			scroll: [
-				{
-					type: 'top',
-					startScroll: 0,
-					endScroll: 200,
-					startValue: 100,
-					endValue: 400
-				},
-				{
-					type: 'left',
-					startScroll: 0,
-					endScroll: 200,
-					startValue: 0,
-					endValue: 200
-				}
-			]
-		}
-	]
+>[
+>>{
+>>>type: 'image',
+>>>style: {
+>>>>left: 0,
+>>>>top: 10
+>>>},
+>>>scroll: [
+>>>>{
+>>>>>type: 'top',
+>>>>>startScroll: 0,
+>>>>>endScroll: 200,
+>>>>>startValue: 100,
+>>>>>endValue: 400
+>>>>},
+>>>>{
+>>>>>type: 'left',
+>>>>>startScroll: 0,
+>>>>>endScroll: 200,
+>>>>>startValue: 0,
+>>>>>endValue: 200
+>>>>}
+>>>]
+>>}
+>]
 
 Изменил left и top, на x и y
 Также для посчета использовал десятки, а не сотни, например, startValue: 70 вместо startValue: 700
