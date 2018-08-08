@@ -1,10 +1,10 @@
 Использовал react-create-app
 
-- [Для установки npm install]
-- [Для запуска npm start]
+	Для установки npm install
+	Для запуска npm start
 
-- [Весь нужный js находится в App.jsx и defaultValues.js]
-- [Стили находятся в App.css]
+	Весь нужный js находится в App.jsx и defaultValues.js
+	Стили находятся в App.css
 
 Использовал массив из тз:
 	<[
